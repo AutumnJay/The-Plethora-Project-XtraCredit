@@ -1,1 +1,3 @@
 # The-Plethora-Project-XtraCredit
+
+I have completed the first 9 tutorials of this project. I planned on completeing all 24 however in tutorial 10 you are askeed to download a library called "toxiclibs".Unfortunately, toxiclibs is no longer available for download. I tried multiple different sources and sites and it just was not availble. I know other students have also gotten this far and were unable to download it. I looked ahead and tried to continue thee best I could without the library and unfortunately it is just not possible to carry ahead in the future tutorials without the library. However as mentioned above I did complete the first 9 tutorials that dont require toxiclibs and have included them in this folder. 
